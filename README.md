@@ -31,36 +31,36 @@
 
 #### 心动彩蛋
 
-<img src=".\images\3.png" alt="0" style="zoom:33%;" /> 点击后--》<img src=".\images\4.png" alt="0" style="zoom:33%;" />  
+<img src="https://github.com/SmartRabbitY/LoveCards/blob/main/images/3.png" alt="0" style="zoom:33%;" /> 点击后--》<img src="https://github.com/SmartRabbitY/LoveCards/blob/main/images/4.png" alt="0" style="zoom:33%;" />  
 
 #### 设置Web3.stoarge Token
 
-![0](.\images\5.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/5.png)
 
-![0](.\images\6.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/6.png)
 
 #### 编辑发布自己的爱情卡片，并选择发布图片与发布内容和发布形式（online不会永久保存，onchain会永久保存）
 
-<img src=".\images\7.png" alt="0" style="zoom: 67%;" />
+<img src="https://github.com/SmartRabbitY/LoveCards/blob/main/images/7.png" alt="0" style="zoom: 67%;" />
 
 #### 发布成功
 
-<img src=".\images\8.png" alt="0" style="zoom:67%;" />
+<img src="https://github.com/SmartRabbitY/LoveCards/blob/main/images/8.png" alt="0" style="zoom:67%;" />
 
 #### 侧边栏显示已经永久在储存在Filecoin上的爱情卡片，点击也可去到Filecoin地址
 
-<img src=".\images\9.png" alt="0" style="zoom:50%;" /> <img src=".\images\10.png" alt="0" style="zoom:50%;" />
+<img src="https://github.com/SmartRabbitY/LoveCards/blob/main/images/9.png" alt="0" style="zoom:50%;" /> <img src="https://github.com/SmartRabbitY/LoveCards/blob/main/images/10.png" alt="0" style="zoom:50%;" />
 
-![0](.\images\11.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/11.png)
 
 #### 星河链许愿池
 
-![0](.\images\12.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/12.png)
 
 #### 发送星愿，通过智能合约收费
 
-![0](.\images\13.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/13.png)
 
 #### 星愿成功发布
 
-![0](.\images\14.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/14.png)
