@@ -19,15 +19,15 @@
 
 #### 登录界面，这里可自动调用MetaMask等钱包服务
 
-![0](.\images\0.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/0.png)
 
 #### 登录后进入主界面
 
-![0](.\images\1.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/1.png)
 
 #### 进入编辑资料界面，对个人信息、另一半地址以及主页面背景进行设置
 
-![0](.\images\2.png)
+![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/2.png)
 
 #### 心动彩蛋
 
