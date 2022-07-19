@@ -67,3 +67,11 @@
 #### 星愿成功发布
 
 ![0](https://github.com/SmartRabbitY/LoveCards/blob/main/images/14.png)
+
+## 运行指南
+1、安装依赖 npm install
+2、注册Moralis并设置index.js中Moralis的AppID和Server
+3、npm start
+## 参考文献
+1、B站官方教程
+2、Moralis官方教程
