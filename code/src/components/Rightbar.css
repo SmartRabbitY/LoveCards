@@ -1,0 +1,23 @@
+.rightbarContent {
+  padding: 25px;
+  width: 80%;
+}
+
+
+
+.Heart {
+    background-color: rgb(246, 108, 108);
+    border-radius: 1000px;
+    color: white;
+    font-weight: 600;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.more {
+    font-size: 15px;
+    font-weight: normal;
+    padding: 15px;
+    color:#1DA1F2;
+}
